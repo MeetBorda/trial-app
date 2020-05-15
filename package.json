@@ -1,6 +1,6 @@
 {
   "homepage": "https://meetborda.github.io/trial-app",
-  "name": "mess-menu-try",
+  "name": "trial-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
